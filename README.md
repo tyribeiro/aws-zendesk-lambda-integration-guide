@@ -45,12 +45,10 @@ This repo contains both the **“before”** and **“after”** versions, plus 
 
 ---
 
-## 🎯 Skills Demonstrated
+## 🎯 Skills Demonstrated on this Case Study
 
 - Technical editing (copyediting, proofreading, developmental editing)
 - Communicating technical details for **developers and operations teams**
 - Applying **global English** standards for a diverse audience
 - Maintaining **brand integrity and technical correctness** for AWS services
 - Designing documentation that supports **assessment-quality content** (clear, fair, unambiguous)
-
-This project is specifically tailored to align with responsibilities of the **Technical Editor, AWS Certification** role.
