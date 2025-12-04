@@ -1,6 +1,6 @@
-#Architecture Overview – AWS x Zendesk Integration
+# Architecture Overview – AWS x Zendesk Integration
 
-##Purpose
+## Purpose
 
 This document provides a high-level view of the **AWS + Zendesk integration** used in this case study.  
 It is written to be:
